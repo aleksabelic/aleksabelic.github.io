@@ -1,0 +1,17 @@
+# Aleksa Belić
+
+> Operator and investor who builds AI systems inside services businesses. Vice President at Aginsky Capital Group, running M&A and operations for a facilities services platform (~$30M pro forma revenue across 40 states, as of October 2026). Previously Venture Analyst at dlab (formerly part of SOSV). B.A. Computer Science, Lewis & Clark College.
+
+## Pages
+- [Home](https://aleksabelic.com/): bio, current and previous roles, selected work with figures
+- [Interests](https://aleksabelic.com/interests.html): what he does and thinks about outside work
+
+## Selected work (figures as of October 2026)
+- Built the platform's acquisition pipeline: 550+ companies sourced, 15 LOIs issued at $8–20M enterprise value, LLM automation across sourcing and diligence
+- Built an in-house workforce operations platform for two operating companies, freeing ~600 admin hours a month
+- Built a bid discovery agent that scans federal, state and municipal procurement portals weekly
+- At dlab: 4 initial investments (80% of the fund's deal count); top one 280%+ IRR
+
+## Contact
+- X: https://x.com/aleksabelic
+- LinkedIn: https://www.linkedin.com/in/aleksabelic

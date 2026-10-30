@@ -1,7 +1,7 @@
----
-permalink: /robots.txt
----
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+User-agent: meta-webindexer
+Allow: /
+
+Sitemap: https://aleksabelic.com/sitemap.xml
